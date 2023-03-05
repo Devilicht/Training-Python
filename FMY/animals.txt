@@ -1,0 +1,1 @@
+macaco,baleia,cobra,sapo,abelha,foca,flamingo

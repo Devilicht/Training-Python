@@ -1,0 +1,1 @@
+melancia,banana,laranja,manga,morango,limao
